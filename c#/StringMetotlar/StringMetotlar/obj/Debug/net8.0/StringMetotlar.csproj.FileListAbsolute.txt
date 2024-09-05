@@ -1,0 +1,28 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\obj\Debug\net8.0\refint\StringMetotlar.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\StringMetotlar\StringMetotlar\obj\Debug\net8.0\ref\StringMetotlar.dll
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.exe
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.deps.json
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.dll
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\bin\Debug\net8.0\StringMetotlar.pdb
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.dll
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\obj\Debug\net8.0\refint\StringMetotlar.dll
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.pdb
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\obj\Debug\net8.0\StringMetotlar.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\StringMetotlar\StringMetotlar\obj\Debug\net8.0\ref\StringMetotlar.dll
