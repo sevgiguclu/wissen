@@ -1,0 +1,42 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\refint\IkiSayininKarresi.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\ref\IkiSayininKarresi.dll
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.exe
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.deps.json
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.dll
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.pdb
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.dll
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\refint\IkiSayininKarresi.dll
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.pdb
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\Uygulama Örnekleri\28052024\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\ref\IkiSayininKarresi.dll
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.exe
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.deps.json
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.dll
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\bin\Debug\net8.0\IkiSayininKarresi.pdb
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.dll
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\refint\IkiSayininKarresi.dll
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.pdb
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\IkiSayininKarresi.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\IkiSayininKarresi\obj\Debug\net8.0\ref\IkiSayininKarresi.dll

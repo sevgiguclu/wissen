@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\bin\Debug\net8.0\dortislem.exe
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\bin\Debug\net8.0\dortislem.deps.json
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\bin\Debug\net8.0\dortislem.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\bin\Debug\net8.0\dortislem.dll
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\bin\Debug\net8.0\dortislem.pdb
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\obj\Debug\net8.0\dortislem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\obj\Debug\net8.0\dortislem.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\obj\Debug\net8.0\dortislem.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\obj\Debug\net8.0\dortislem.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\obj\Debug\net8.0\dortislem.dll
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\obj\Debug\net8.0\refint\dortislem.dll
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\obj\Debug\net8.0\dortislem.pdb
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\obj\Debug\net8.0\dortislem.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\HelloWorldApplication\dortislem\obj\Debug\net8.0\ref\dortislem.dll
