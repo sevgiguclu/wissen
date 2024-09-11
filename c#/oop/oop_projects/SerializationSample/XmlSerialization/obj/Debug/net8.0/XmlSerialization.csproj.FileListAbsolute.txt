@@ -1,0 +1,14 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\bin\Debug\net8.0\XmlSerialization.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\bin\Debug\net8.0\XmlSerialization.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\bin\Debug\net8.0\XmlSerialization.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\bin\Debug\net8.0\XmlSerialization.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\bin\Debug\net8.0\XmlSerialization.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\obj\Debug\net8.0\XmlSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\obj\Debug\net8.0\XmlSerialization.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\obj\Debug\net8.0\XmlSerialization.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\obj\Debug\net8.0\XmlSerialization.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\obj\Debug\net8.0\XmlSerialization.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\obj\Debug\net8.0\refint\XmlSerialization.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\obj\Debug\net8.0\XmlSerialization.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\obj\Debug\net8.0\XmlSerialization.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\XmlSerialization\obj\Debug\net8.0\ref\XmlSerialization.dll

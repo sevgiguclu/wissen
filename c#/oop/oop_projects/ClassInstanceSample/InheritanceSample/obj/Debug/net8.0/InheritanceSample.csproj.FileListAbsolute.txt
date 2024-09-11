@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.exe
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.deps.json
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.dll
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.dll
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\refint\InheritanceSample.dll
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\ref\InheritanceSample.dll

@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\bin\Debug\net8.0\MultipleInhertinceWithInterface.exe
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\bin\Debug\net8.0\MultipleInhertinceWithInterface.deps.json
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\bin\Debug\net8.0\MultipleInhertinceWithInterface.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\bin\Debug\net8.0\MultipleInhertinceWithInterface.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\bin\Debug\net8.0\MultipleInhertinceWithInterface.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\obj\Debug\net8.0\MultipleInhertinceWithInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\obj\Debug\net8.0\MultipleInhertinceWithInterface.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\obj\Debug\net8.0\MultipleInhertinceWithInterface.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\obj\Debug\net8.0\MultipleInhertinceWithInterface.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\obj\Debug\net8.0\MultipleInhertinceWithInterface.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\obj\Debug\net8.0\refint\MultipleInhertinceWithInterface.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\obj\Debug\net8.0\MultipleInhertinceWithInterface.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\obj\Debug\net8.0\MultipleInhertinceWithInterface.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\MultipleInhertinceWithInterface\obj\Debug\net8.0\ref\MultipleInhertinceWithInterface.dll

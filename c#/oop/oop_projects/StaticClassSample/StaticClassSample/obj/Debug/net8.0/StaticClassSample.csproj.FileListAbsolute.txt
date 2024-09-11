@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\bin\Debug\net8.0\StaticClassSample.exe
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\bin\Debug\net8.0\StaticClassSample.deps.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\bin\Debug\net8.0\StaticClassSample.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\bin\Debug\net8.0\StaticClassSample.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\bin\Debug\net8.0\StaticClassSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\obj\Debug\net8.0\StaticClassSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\obj\Debug\net8.0\StaticClassSample.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\obj\Debug\net8.0\StaticClassSample.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\obj\Debug\net8.0\StaticClassSample.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\obj\Debug\net8.0\StaticClassSample.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\obj\Debug\net8.0\refint\StaticClassSample.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\obj\Debug\net8.0\StaticClassSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\obj\Debug\net8.0\StaticClassSample.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\StaticClassSample\StaticClassSample\obj\Debug\net8.0\ref\StaticClassSample.dll

@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.exe
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.deps.json
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.dll
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.pdb
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.dll
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\refint\InheritanceSampleAnimal.dll
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.pdb
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\ref\InheritanceSampleAnimal.dll

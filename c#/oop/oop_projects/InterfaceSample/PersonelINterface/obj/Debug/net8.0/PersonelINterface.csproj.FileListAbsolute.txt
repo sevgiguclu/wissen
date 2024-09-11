@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\obj\Debug\net8.0\PersonelINterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\obj\Debug\net8.0\PersonelINterface.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\obj\Debug\net8.0\PersonelINterface.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\obj\Debug\net8.0\PersonelINterface.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\bin\Debug\net8.0\PersonelINterface.exe
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\bin\Debug\net8.0\PersonelINterface.deps.json
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\bin\Debug\net8.0\PersonelINterface.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\bin\Debug\net8.0\PersonelINterface.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\bin\Debug\net8.0\PersonelINterface.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\obj\Debug\net8.0\PersonelINterface.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\obj\Debug\net8.0\refint\PersonelINterface.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\obj\Debug\net8.0\PersonelINterface.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\obj\Debug\net8.0\PersonelINterface.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\InterfaceSample\PersonelINterface\obj\Debug\net8.0\ref\PersonelINterface.dll

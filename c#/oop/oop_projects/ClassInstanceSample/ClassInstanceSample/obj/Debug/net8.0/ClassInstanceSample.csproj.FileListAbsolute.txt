@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\bin\Debug\net8.0\ClassInstanceSample.exe
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\bin\Debug\net8.0\ClassInstanceSample.deps.json
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\bin\Debug\net8.0\ClassInstanceSample.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\bin\Debug\net8.0\ClassInstanceSample.dll
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\bin\Debug\net8.0\ClassInstanceSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\obj\Debug\net8.0\ClassInstanceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\obj\Debug\net8.0\ClassInstanceSample.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\obj\Debug\net8.0\ClassInstanceSample.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\obj\Debug\net8.0\ClassInstanceSample.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\obj\Debug\net8.0\ClassInstanceSample.dll
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\obj\Debug\net8.0\refint\ClassInstanceSample.dll
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\obj\Debug\net8.0\ClassInstanceSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\obj\Debug\net8.0\ClassInstanceSample.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\ClassInstanceSample\ClassInstanceSample\obj\Debug\net8.0\ref\ClassInstanceSample.dll

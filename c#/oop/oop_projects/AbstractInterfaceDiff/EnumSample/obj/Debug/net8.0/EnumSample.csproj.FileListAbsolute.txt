@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\bin\Debug\net8.0\EnumSample.exe
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\bin\Debug\net8.0\EnumSample.deps.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\bin\Debug\net8.0\EnumSample.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\bin\Debug\net8.0\EnumSample.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\bin\Debug\net8.0\EnumSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\obj\Debug\net8.0\EnumSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\obj\Debug\net8.0\EnumSample.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\obj\Debug\net8.0\EnumSample.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\obj\Debug\net8.0\EnumSample.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\obj\Debug\net8.0\EnumSample.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\obj\Debug\net8.0\refint\EnumSample.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\obj\Debug\net8.0\EnumSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\obj\Debug\net8.0\EnumSample.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\EnumSample\obj\Debug\net8.0\ref\EnumSample.dll

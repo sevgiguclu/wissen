@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\obj\Debug\net8.0\AbstractInterfaceDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\obj\Debug\net8.0\AbstractInterfaceDiff.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\obj\Debug\net8.0\AbstractInterfaceDiff.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\obj\Debug\net8.0\AbstractInterfaceDiff.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\bin\Debug\net8.0\AbstractInterfaceDiff.exe
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\bin\Debug\net8.0\AbstractInterfaceDiff.deps.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\bin\Debug\net8.0\AbstractInterfaceDiff.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\bin\Debug\net8.0\AbstractInterfaceDiff.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\bin\Debug\net8.0\AbstractInterfaceDiff.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\obj\Debug\net8.0\AbstractInterfaceDiff.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\obj\Debug\net8.0\refint\AbstractInterfaceDiff.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\obj\Debug\net8.0\AbstractInterfaceDiff.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\obj\Debug\net8.0\AbstractInterfaceDiff.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\AbstractInterfaceDiff\AbstractInterfaceDiff\obj\Debug\net8.0\ref\AbstractInterfaceDiff.dll

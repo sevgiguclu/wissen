@@ -1,0 +1,14 @@
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.exe
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.deps.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\refint\KurumsalMimari.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\ref\KurumsalMimari.dll

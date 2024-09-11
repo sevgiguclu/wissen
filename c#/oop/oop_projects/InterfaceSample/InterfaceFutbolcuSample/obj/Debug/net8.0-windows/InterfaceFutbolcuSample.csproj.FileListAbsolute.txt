@@ -1,0 +1,16 @@
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\bin\Debug\net8.0-windows\InterfaceFutbolcuSample.exe
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\bin\Debug\net8.0-windows\InterfaceFutbolcuSample.deps.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\bin\Debug\net8.0-windows\InterfaceFutbolcuSample.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\bin\Debug\net8.0-windows\InterfaceFutbolcuSample.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\bin\Debug\net8.0-windows\InterfaceFutbolcuSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\InterfaceFutbolcuSample.Form1.resources
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\InterfaceFutbolcuSample.csproj.GenerateResource.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\InterfaceFutbolcuSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\InterfaceFutbolcuSample.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\InterfaceFutbolcuSample.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\InterfaceFutbolcuSample.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\InterfaceFutbolcuSample.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\refint\InterfaceFutbolcuSample.dll
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\InterfaceFutbolcuSample.pdb
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\InterfaceFutbolcuSample.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\oop\oop_projects\InterfaceSample\InterfaceFutbolcuSample\obj\Debug\net8.0-windows\ref\InterfaceFutbolcuSample.dll
