@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapemptyproject\\wwwroot\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|solutionrelative:bootstrapemptyproject\\wwwroot\\index2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapemptyproject\\wwwroot\\index1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|solutionrelative:bootstrapemptyproject\\wwwroot\\index1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapemptyproject\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|solutionrelative:bootstrapemptyproject\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapemptyproject\\wwwroot\\index4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|solutionrelative:bootstrapemptyproject\\wwwroot\\index4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapsample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|solutionrelative:bootstrapsample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapsample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|solutionrelative:bootstrapsample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapsample\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|solutionrelative:bootstrapsample\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapemptyproject\\wwwroot\\index3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|solutionrelative:bootstrapemptyproject\\wwwroot\\index3.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapemptyproject\\bootstrapemptyproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|solutionrelative:bootstrapemptyproject\\bootstrapemptyproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapsample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|solutionrelative:bootstrapsample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapemptyproject\\wwwroot\\grid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|solutionrelative:bootstrapemptyproject\\wwwroot\\grid.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapemptyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB4A1C3E-DA0D-4FA7-9838-AE6885EE7AF1}|BootStrapEmptyProject\\BootStrapEmptyProject.csproj|solutionrelative:bootstrapemptyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapsample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|solutionrelative:bootstrapsample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\bootsrap\\bootstrapsample\\bootstrapsample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{686E930F-DEF5-4D25-AD5B-695A9F013760}|BootStrapSample\\BootStrapSample.csproj|solutionrelative:bootstrapsample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "BootStrapSample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "BootStrapSample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T08:10:46.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeDocumentMoniker": "BootStrapSample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "RelativeToolTip": "BootStrapSample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+              "ViewState": "AQIAAFIBAAAAAAAAAAA0wN8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T08:09:55.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "BootStrapSample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "BootStrapSample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAOgMAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T08:09:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index4.html",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index4.html",
+              "RelativeDocumentMoniker": "BootStrapEmptyProject\\wwwroot\\Index4.html",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index4.html",
+              "RelativeToolTip": "BootStrapEmptyProject\\wwwroot\\Index4.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAADWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-18T07:51:20.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index3.html",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index3.html",
+              "RelativeDocumentMoniker": "BootStrapEmptyProject\\wwwroot\\Index3.html",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index3.html",
+              "RelativeToolTip": "BootStrapEmptyProject\\wwwroot\\Index3.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAADWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-18T07:23:01.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index2.html",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index2.html",
+              "RelativeDocumentMoniker": "BootStrapEmptyProject\\wwwroot\\Index2.html",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index2.html",
+              "RelativeToolTip": "BootStrapEmptyProject\\wwwroot\\Index2.html",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAAUAAADWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-18T06:38:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index1.html",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index1.html",
+              "RelativeDocumentMoniker": "BootStrapEmptyProject\\wwwroot\\Index1.html",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index1.html",
+              "RelativeToolTip": "BootStrapEmptyProject\\wwwroot\\Index1.html",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAUAAADWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-18T06:22:37.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "BootStrapEmptyProject\\wwwroot\\Index.html",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index.html",
+              "RelativeToolTip": "BootStrapEmptyProject\\wwwroot\\Index.html",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAUAAADWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-18T05:36:48.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BootStrapEmptyProject.csproj",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\BootStrapEmptyProject.csproj",
+              "RelativeDocumentMoniker": "BootStrapEmptyProject\\BootStrapEmptyProject.csproj",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\BootStrapEmptyProject.csproj",
+              "RelativeToolTip": "BootStrapEmptyProject\\BootStrapEmptyProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T05:35:21.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-17T10:07:26.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Grid.html",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Grid.html",
+              "RelativeDocumentMoniker": "BootStrapEmptyProject\\wwwroot\\Grid.html",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Grid.html",
+              "RelativeToolTip": "BootStrapEmptyProject\\wwwroot\\Grid.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAADWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-17T09:11:48.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\Program.cs",
+              "RelativeDocumentMoniker": "BootStrapEmptyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapEmptyProject\\Program.cs",
+              "RelativeToolTip": "BootStrapEmptyProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T09:09:58.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAJQrAAAAAAAAAAAAwKArAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-17T09:05:21.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\bootsrap\\BootStrapSample\\BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "BootStrapSample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-17T09:05:13.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

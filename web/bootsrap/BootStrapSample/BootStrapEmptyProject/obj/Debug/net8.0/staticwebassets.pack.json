@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Grid.html",
+      "PackagePath": "staticwebassets\\Grid.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index1.html",
+      "PackagePath": "staticwebassets\\Index1.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index2.html",
+      "PackagePath": "staticwebassets\\Index2.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index3.html",
+      "PackagePath": "staticwebassets\\Index3.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\BootStrapSample\\BootStrapEmptyProject\\wwwroot\\Index4.html",
+      "PackagePath": "staticwebassets\\Index4.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BootStrapEmptyProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BootStrapEmptyProject.props",
+      "PackagePath": "build\\BootStrapEmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BootStrapEmptyProject.props",
+      "PackagePath": "buildMultiTargeting\\BootStrapEmptyProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BootStrapEmptyProject.props",
+      "PackagePath": "buildTransitive\\BootStrapEmptyProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
