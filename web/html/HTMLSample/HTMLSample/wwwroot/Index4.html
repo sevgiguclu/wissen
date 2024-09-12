@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Tablo İşlemler</title>
+</head>
+<body>
+    <p>
+        Verileri tablo formatında göstermek için kullanılan html element <strong>table</strong> etiketidir. Tabloda bir satır için  <strong>tr </strong> etiketi sutun için de  <strong>td </strong> etiketi kullanılır..
+    </p>
+    <p><h2>Tablonun bazı özellikleri</h2></p>
+    <p>
+        <ol type="I">
+            <li><b>Width : </b> Tablonun genişliği için kullanılır...</li>
+            <li><b>border : </b> Tablodaki satır ve sutunların çerçevesinin boyutunu temsil eder...</li>
+            <li><b>colspan : </b> Kolonları tek bir kolon haline getirmek için kullanılır. Kolonları merge yapar</li>
+            <li><b>rowspan : </b> Satırları tek bir satır haline getirmek kullanılır. Satırları merge yapar</li>
+            <li><b>cellspacing : </b> Kolonların birbirleri ile arasındaki mesafeyi temsil eder</li>
+            <li><b>cellpadding : </b> Kolon içerisindeki verinin dış çerçeveye olan uzaklığını temsil eder</li>
+        </ol>
+    </p>
+
+    <hr />
+    <table width="450" cellspacing="5" cellpadding="2" border="1">
+        <tr>
+            <td>ADI</td>
+            <td>SOYADI</td>
+            <td>NOTU</td>
+        </tr>
+        <tr>
+            <td>John</td>
+            <td>Doe</td>
+            <td>75</td>
+        </tr>
+        <tr>
+            <td>Jeyn</td>
+            <td>Doe</td>
+            <td>80</td>
+        </tr>
+        <tr>
+            <td>Tom</td>
+            <td>Doe</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>Poul</td>
+            <td>Doe</td>
+            <td>90</td>
+        </tr>
+        <tr>
+            <td>James</td>
+            <td>Doe</td>
+            <td rowspan="2">40</td>
+        </tr>
+        <tr>
+            <td>Hans</td>
+            <td>Doe</td>
+            <!--<td rowspan="2">40</td>-->
+        </tr>
+        <tr>
+            <td colspan="3">
+                <center><b>NOT ORTALAMALARI</b></center>
+            </td>
+        </tr>
+    </table>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <table border="1" cellpadding="0" width="800">
+        <thead>
+            <tr>
+                <th>Başlık 1</th>
+                <th>Başlık 2</th>
+                <th>Başlık 3</th>
+                <th>Başlık 4</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Merhaba HTML</td>
+                <td>Merhaba Table</td>
+                <td>Merhaba Tbody</td>
+                <td>Merhaba TD</td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <center><b>TBODY ARA SATIR</b></center>
+                </td>
+            </tr>
+            <tr>
+                <td>Merhaba HTML</td>
+                <td>Merhaba Table</td>
+                <td>Merhaba Tbody</td>
+                <td>Merhaba TD</td>
+            <tr>
+                <td>Merhaba HTML</td>
+                <td>Merhaba Table</td>
+                <td>Merhaba Tbody</td>
+                <td>Merhaba TD</td>
+            </tr>
+            <tr>
+                <td>Merhaba HTML</td>
+                <td>Merhaba Table</td>
+                <td>Merhaba Tbody</td>
+                <td>Merhaba TD</td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <center><b>TBODY SON SATIR</b></center>
+                </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="4">
+                    <center><b>FOOTER BÖLÜMÜ</b></center>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
