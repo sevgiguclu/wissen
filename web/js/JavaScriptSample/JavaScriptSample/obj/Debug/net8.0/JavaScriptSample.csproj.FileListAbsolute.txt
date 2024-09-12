@@ -1,0 +1,78 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\appsettings.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.staticwebassets.runtime.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.JavaScriptSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.build.JavaScriptSample.props
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JavaScriptSample.props
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JavaScriptSample.props
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\scopedcss\bundle\JavaScriptSample.styles.css
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\refint\JavaScriptSample.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\ref\JavaScriptSample.dll
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\appsettings.json
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.staticwebassets.runtime.json
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.exe
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.deps.json
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.dll
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.pdb
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.JavaScriptSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.build.JavaScriptSample.props
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JavaScriptSample.props
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JavaScriptSample.props
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\scopedcss\bundle\JavaScriptSample.styles.css
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.dll
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\refint\JavaScriptSample.dll
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.pdb
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\web\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\ref\JavaScriptSample.dll
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\appsettings.json
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.staticwebassets.runtime.json
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.exe
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.deps.json
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.dll
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\bin\Debug\net8.0\JavaScriptSample.pdb
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.JavaScriptSample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.build.JavaScriptSample.props
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JavaScriptSample.props
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JavaScriptSample.props
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\scopedcss\bundle\JavaScriptSample.styles.css
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.dll
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\refint\JavaScriptSample.dll
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.pdb
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\JavaScriptSample.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\web\js\JavaScriptSample\JavaScriptSample\obj\Debug\net8.0\ref\JavaScriptSample.dll

@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\js\\JavaScriptSample\\JavaScriptSample\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\js\\JavaScriptSample\\JavaScriptSample\\wwwroot\\Index1.html",
+      "PackagePath": "staticwebassets\\Index1.html"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\js\\JavaScriptSample\\JavaScriptSample\\wwwroot\\Index2.html",
+      "PackagePath": "staticwebassets\\Index2.html"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\js\\JavaScriptSample\\JavaScriptSample\\wwwroot\\Index3.html",
+      "PackagePath": "staticwebassets\\Index3.html"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\js\\JavaScriptSample\\JavaScriptSample\\wwwroot\\Index4.html",
+      "PackagePath": "staticwebassets\\Index4.html"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\js\\JavaScriptSample\\JavaScriptSample\\wwwroot\\Index5.html",
+      "PackagePath": "staticwebassets\\Index5.html"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\js\\JavaScriptSample\\JavaScriptSample\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\js\\JavaScriptSample\\JavaScriptSample\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\js\\JavaScriptSample\\JavaScriptSample\\wwwroot\\js\\todojs.js",
+      "PackagePath": "staticwebassets\\js\\todojs.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.JavaScriptSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.JavaScriptSample.props",
+      "PackagePath": "build\\JavaScriptSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.JavaScriptSample.props",
+      "PackagePath": "buildMultiTargeting\\JavaScriptSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.JavaScriptSample.props",
+      "PackagePath": "buildTransitive\\JavaScriptSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
