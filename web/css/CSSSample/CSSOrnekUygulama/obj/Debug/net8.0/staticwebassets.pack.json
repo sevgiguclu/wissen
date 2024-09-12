@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\images\\resim1.png",
+      "PackagePath": "staticwebassets\\images\\resim1.png"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\images\\resim2.jpg",
+      "PackagePath": "staticwebassets\\images\\resim2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\images\\resim3.jpg",
+      "PackagePath": "staticwebassets\\images\\resim3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\images\\resim4.jpg",
+      "PackagePath": "staticwebassets\\images\\resim4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CSSOrnekUygulama.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CSSOrnekUygulama.props",
+      "PackagePath": "build\\CSSOrnekUygulama.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CSSOrnekUygulama.props",
+      "PackagePath": "buildMultiTargeting\\CSSOrnekUygulama.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CSSOrnekUygulama.props",
+      "PackagePath": "buildTransitive\\CSSOrnekUygulama.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65534DE-1443-4EC3-9C53-0FE8EC43FD83}|CSSOrnekUygulama\\CSSOrnekUygulama.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\css\\csssample\\cssornekuygulama\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B65534DE-1443-4EC3-9C53-0FE8EC43FD83}|CSSOrnekUygulama\\CSSOrnekUygulama.csproj|solutionrelative:cssornekuygulama\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65534DE-1443-4EC3-9C53-0FE8EC43FD83}|CSSOrnekUygulama\\CSSOrnekUygulama.csproj|c:\\users\\svggl\\desktop\\wissen\\web\\css\\csssample\\cssornekuygulama\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65534DE-1443-4EC3-9C53-0FE8EC43FD83}|CSSOrnekUygulama\\CSSOrnekUygulama.csproj|solutionrelative:cssornekuygulama\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "CSSOrnekUygulama\\wwwroot\\Index.html",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\Index.html",
+              "RelativeToolTip": "CSSOrnekUygulama\\wwwroot\\Index.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-20T19:26:54.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "CSSOrnekUygulama\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\web\\css\\CSSSample\\CSSOrnekUygulama\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "CSSOrnekUygulama\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswF8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-20T19:26:31.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

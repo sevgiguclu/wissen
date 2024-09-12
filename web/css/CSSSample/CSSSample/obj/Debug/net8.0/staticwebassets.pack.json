@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\Index1.html",
+      "PackagePath": "staticwebassets\\Index1.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\Index2.html",
+      "PackagePath": "staticwebassets\\Index2.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\Index3.html",
+      "PackagePath": "staticwebassets\\Index3.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\Index4.html",
+      "PackagePath": "staticwebassets\\Index4.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\Index5.html",
+      "PackagePath": "staticwebassets\\Index5.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\Index6.html",
+      "PackagePath": "staticwebassets\\Index6.html"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\CSSSample\\CSSSample\\wwwroot\\images\\visula-studio-logo.png",
+      "PackagePath": "staticwebassets\\images\\visula-studio-logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CSSSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CSSSample.props",
+      "PackagePath": "build\\CSSSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CSSSample.props",
+      "PackagePath": "buildMultiTargeting\\CSSSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CSSSample.props",
+      "PackagePath": "buildTransitive\\CSSSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

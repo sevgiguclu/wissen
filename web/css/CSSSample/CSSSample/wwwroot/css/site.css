@@ -1,0 +1,52 @@
+﻿#kursiyer{
+    border:1px solid navy;
+    width:100%;
+    background-color:lightgray;
+    font-weight:bold;
+    font-family:'Segoe Print';
+}
+
+#kursiyer th, #kursiyer td{
+    padding:6px;
+}
+
+#kursiyer th{
+    background-color:floralwhite;
+    padding-top:20px;
+    padding-bottom:20px;
+    text-align:left;
+    color:rebeccapurple
+}
+
+#kursiyer td{
+    color:palevioletred;
+}
+
+
+#kursiyer1{
+    border:1px solid;
+    width:100%;
+    font-family:Dubai;
+}
+
+#kursiyer1 th,#kursiyer1 td{
+    border:1px solid navy;
+    padding:6px;
+}
+
+#kursiyer1 th{
+    background-color:darkblue;
+    color:white;
+    text-align:left;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-weight:400;
+    border:1px solid dashed white;
+}
+
+#kursiyer1 tbody tr:hover{
+    color:white;
+    background-color:navy;
+    cursor:pointer
+
+}

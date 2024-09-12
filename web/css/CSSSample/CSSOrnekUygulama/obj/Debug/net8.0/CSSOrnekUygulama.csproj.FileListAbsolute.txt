@@ -1,0 +1,52 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\appsettings.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.staticwebassets.runtime.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets\msbuild.CSSOrnekUygulama.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets\msbuild.build.CSSOrnekUygulama.props
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CSSOrnekUygulama.props
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CSSOrnekUygulama.props
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\scopedcss\bundle\CSSOrnekUygulama.styles.css
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\refint\CSSOrnekUygulama.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\ref\CSSOrnekUygulama.dll
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\appsettings.json
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.staticwebassets.runtime.json
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.exe
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.deps.json
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.dll
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\bin\Debug\net8.0\CSSOrnekUygulama.pdb
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets\msbuild.CSSOrnekUygulama.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets\msbuild.build.CSSOrnekUygulama.props
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CSSOrnekUygulama.props
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CSSOrnekUygulama.props
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\scopedcss\bundle\CSSOrnekUygulama.styles.css
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.dll
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\refint\CSSOrnekUygulama.dll
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.pdb
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\CSSOrnekUygulama.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\web\css\CSSSample\CSSOrnekUygulama\obj\Debug\net8.0\ref\CSSOrnekUygulama.dll
