@@ -1,0 +1,17 @@
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\bin\Debug\net8.0-windows\PersonalList.exe
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\bin\Debug\net8.0-windows\PersonalList.deps.json
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\bin\Debug\net8.0-windows\PersonalList.runtimeconfig.json
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\bin\Debug\net8.0-windows\PersonalList.dll
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\bin\Debug\net8.0-windows\PersonalList.pdb
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.Form1.resources
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.csproj.GenerateResource.cache
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.AssemblyInfoInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.AssemblyInfo.cs
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.csproj.CoreCompileInputs.cache
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.sourcelink.json
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.dll
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\refint\PersonalList.dll
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.pdb
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\PersonalList.genruntimeconfig.cache
+C:\Users\svggl\Desktop\wissen\c#\FormApp\3\PersonalList\PersonalList\obj\Debug\net8.0-windows\ref\PersonalList.dll
