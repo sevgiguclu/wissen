@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\windowsformapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\windowsformapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -19,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\svggl\\desktop\\wissen\\c#\\formapp\\2\\windowsformapp\\windowsformapp\\windowsformapp\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\svggl\\desktop\\wissen\\c#\\formapp\\2\\windowsformapp\\windowsformapp\\windowsformapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form4.cs",
               "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp\\Form4.cs",
               "RelativeDocumentMoniker": "WindowsFormApp\\Form4.cs",
               "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp\\Form4.cs",
               "RelativeToolTip": "WindowsFormApp\\Form4.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIA8wBwAAAAaAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwBwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T20:03:42.395Z",
               "IsPinned": true,
@@ -48,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form5.cs",
               "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp\\Form5.cs",
               "RelativeDocumentMoniker": "WindowsFormApp\\Form5.cs",
               "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp\\Form5.cs",
               "RelativeToolTip": "WindowsFormApp\\Form5.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAIA6wD8AAAAqAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T20:03:44.778Z",
               "IsPinned": true,
@@ -70,20 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form5.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp\\Form5.Designer.cs",
-              "RelativeDocumentMoniker": "WindowsFormApp\\Form5.Designer.cs",
-              "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp\\Form5.Designer.cs",
-              "RelativeToolTip": "WindowsFormApp\\Form5.Designer.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T22:50:22.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp\\Form5.cs",
               "RelativeDocumentMoniker": "WindowsFormApp\\Form5.cs",
@@ -95,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\FormApp\\2\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp\\Form4.cs",
               "RelativeDocumentMoniker": "WindowsFormApp\\Form4.cs",
