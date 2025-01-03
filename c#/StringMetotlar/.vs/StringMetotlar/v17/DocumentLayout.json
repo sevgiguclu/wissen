@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\StringMetotlar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\svggl\\Desktop\\wissen\\c#\\StringMetotlar\\StringMetotlar\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StringMetotlar\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD14BB95-95E1-406F-BA36-35E1194D9F66}|StringMetotlar\\StringMetotlar.csproj|c:\\users\\svggl\\desktop\\wissen\\c#\\stringmetotlar\\stringmetotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD14BB95-95E1-406F-BA36-35E1194D9F66}|StringMetotlar\\StringMetotlar.csproj|solutionrelative:stringmetotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "StringMetotlar\\Program.cs",
               "ToolTip": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\StringMetotlar\\StringMetotlar\\Program.cs",
               "RelativeToolTip": "StringMetotlar\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T07:33:26.814Z",
               "EditorCaption": ""
