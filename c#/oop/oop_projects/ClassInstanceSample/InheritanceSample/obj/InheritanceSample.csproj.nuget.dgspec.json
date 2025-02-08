@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSample\\InheritanceSample.csproj": {}
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSample\\InheritanceSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSample\\InheritanceSample.csproj": {
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSample\\InheritanceSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSample\\InheritanceSample.csproj",
+        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSample\\InheritanceSample.csproj",
         "projectName": "InheritanceSample",
-        "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSample\\InheritanceSample.csproj",
+        "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSample\\InheritanceSample.csproj",
         "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSample\\obj\\",
+        "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

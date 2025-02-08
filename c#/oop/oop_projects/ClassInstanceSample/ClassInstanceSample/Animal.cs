@@ -36,7 +36,7 @@ namespace ClassInstanceSample
         //}
 
         //prop yazıp iki kere taba basarak da get ve set oluşturabilirsin
-        //public string AnimalType { get => animalType; set => animalType = value; }//field ile alışır
+        //public string AnimalType { get => animalType; set => animalType = value; }//field ile çalışır
         //public string AnimalType { get; set; }//field tanımlamasak da olur
 
         //bu kullanım kontrol yapılacağında tercih edilir,property tanımlama

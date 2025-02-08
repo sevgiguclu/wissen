@@ -56,7 +56,7 @@ namespace ClassInstanceSample
         public override string ToString()
         {
             //polymorhisim durumu : default değerden(toStringin default değeri var base sınıfında) farklı bir işlem yapıcaz
-            //return base.ToString();//base hangi sınıf kullanılıyorsa onu temsil eder
+            //return base.ToString();//base üst sınıfı temsil eder
 
             string personInfo =
                 $"İsim : {this.Isim}\n" +

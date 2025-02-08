@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj",
+      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj",
       "projectName": "InheritanceSampleAnimal",
-      "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj",
+      "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj",
       "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSampleAnimal\\obj\\",
+      "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSampleAnimal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

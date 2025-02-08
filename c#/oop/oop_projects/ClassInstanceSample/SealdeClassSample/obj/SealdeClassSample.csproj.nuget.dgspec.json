@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\SealdeClassSample\\SealdeClassSample.csproj": {}
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\SealdeClassSample\\SealdeClassSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\SealdeClassSample\\SealdeClassSample.csproj": {
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\SealdeClassSample\\SealdeClassSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\SealdeClassSample\\SealdeClassSample.csproj",
+        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\SealdeClassSample\\SealdeClassSample.csproj",
         "projectName": "SealdeClassSample",
-        "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\SealdeClassSample\\SealdeClassSample.csproj",
+        "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\SealdeClassSample\\SealdeClassSample.csproj",
         "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\SealdeClassSample\\obj\\",
+        "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\SealdeClassSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

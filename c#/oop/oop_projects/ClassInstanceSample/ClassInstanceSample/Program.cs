@@ -17,7 +17,8 @@ using ClassInstanceSample;
 //animal.Speed = 50;
 //Console.WriteLine(animal.Speed);
 
-//garbage collection çalışınca yıkıcı metod çalışacaktır
+
+//biz yıkıcı metodu çağırmayız,garbage collection çalışınca yıkıcı metod çalışacaktır
 //for (int i = 0; i < 100000; i++)
 //{
 //    Animal animal = new Animal;

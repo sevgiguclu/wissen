@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSamplePerson\\InheritanceSamplePerson.csproj",
+      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSamplePerson\\InheritanceSamplePerson.csproj",
       "projectName": "InheritanceSamplePerson",
-      "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSamplePerson\\InheritanceSamplePerson.csproj",
+      "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSamplePerson\\InheritanceSamplePerson.csproj",
       "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\ClassInstanceSample\\InheritanceSamplePerson\\obj\\",
+      "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\InheritanceSamplePerson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

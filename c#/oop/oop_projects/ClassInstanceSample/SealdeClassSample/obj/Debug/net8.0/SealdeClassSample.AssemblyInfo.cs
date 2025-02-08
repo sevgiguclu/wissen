@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SealdeClassSample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea40488a5fcf5c579df4b953beb5d9465504d3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SealdeClassSample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SealdeClassSample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
