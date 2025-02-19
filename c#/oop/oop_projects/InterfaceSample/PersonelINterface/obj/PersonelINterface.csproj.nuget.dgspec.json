@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\PersonelINterface.csproj": {}
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\PersonelINterface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\PersonelINterface.csproj": {
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\PersonelINterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\PersonelINterface.csproj",
+        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\PersonelINterface.csproj",
         "projectName": "PersonelINterface",
-        "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\PersonelINterface.csproj",
+        "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\PersonelINterface.csproj",
         "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\obj\\",
+        "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\PersonelINterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

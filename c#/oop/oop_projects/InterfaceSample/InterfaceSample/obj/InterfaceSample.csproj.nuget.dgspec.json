@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj": {}
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj": {
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj",
+        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj",
         "projectName": "InterfaceSample",
-        "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj",
+        "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\InterfaceSample.csproj",
         "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\obj\\",
+        "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

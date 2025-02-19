@@ -51,7 +51,11 @@ namespace InterfaceFutbolcuSample
             //lstFutbolcular.Items.Add(muslera.AdSoyad);
             //lstFutbolcular.Items.Add(roberto.AdSoyad);
 
-            lstFutbolcular.Items.Add(rustu);//toString metodu liste kulladığımız için otamatik olarak çalıştırılır
+            lstFutbolcular.Items.Add(rustu);//toString metodu otamatik olarak çalıştırılır
+            /*
+             * ListBox kontrolü (lstFutbolcular) bir nesne (object) koleksiyonunu gösterir.
+             * ListBox varsayılan olarak, eklenen nesnelerin ToString() metodunu çağırarak listeye bir metin olarak ekler.
+            */
             lstFutbolcular.Items.Add(muslera);
             lstFutbolcular.Items.Add(roberto);
         }
@@ -61,12 +65,13 @@ namespace InterfaceFutbolcuSample
             flpFutbolcuOzellikleri.Controls.Clear();//flpnin içi temizlenir
 
             if (lstFutbolcular.SelectedItem != null && lstFutbolcular.SelectedItem.GetType().GetInterface("IFutbolcu") != null) {
-
+                //GetType().GetInterface("IFutbolcu") ve GetType().GetProperties() ile "reflection" yapılmıştır
                 IFutbolcu secilenFutbolcu = (IFutbolcu) lstFutbolcular.SelectedItem;
                 PropertyInfo[] properties = secilenFutbolcu.GetType().GetProperties();
                 foreach (PropertyInfo item in properties)
                 {
                     Label lbl = new Label();
+                    //GetCustomAttribute ile reflaction yapılmıştır
                     lbl.Text = item.GetCustomAttribute<DisplayAttribute>().Name + " - " + item.GetValue(secilenFutbolcu);
 
                     lbl.AutoSize = false;

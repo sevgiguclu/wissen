@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\EnumSample\\EnumSample.csproj",
+      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\EnumSample\\EnumSample.csproj",
       "projectName": "EnumSample",
-      "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\EnumSample\\EnumSample.csproj",
+      "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\EnumSample\\EnumSample.csproj",
       "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\EnumSample\\obj\\",
+      "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\EnumSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

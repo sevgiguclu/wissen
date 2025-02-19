@@ -69,7 +69,7 @@ person.DogumTarihi = DateTime.Now.AddYears(-27);
 person.Cinsiyet = "Kadın";
 person.Adres = "1257 street NewYork ABD";
 
-//string personInfo = person.ToString();//abstract işlemi , tüm işlem arka tarfta dönüyor
+//string personInfo = person.ToString();//abstract işlemi , toStringi override ettik, tüm işlem arka tarfta dönüyor
 string personInfo = person.getPersonInfo;
 Console.WriteLine(personInfo);
 

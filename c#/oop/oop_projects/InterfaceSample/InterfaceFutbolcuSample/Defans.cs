@@ -9,7 +9,7 @@ namespace InterfaceFutbolcuSample
 {
     public class Defans : IFutbolcu
     {
-        [Display(Name ="Adı Soyadı")]
+        [Display(Name ="Adı Soyadı")]//Display Annotaion
         public string AdSoyad { get ; set ; }
         [Display(Name = "Forma Numarası")]
         public int FormaNumarasi { get ; set ; }
@@ -21,6 +21,8 @@ namespace InterfaceFutbolcuSample
         {//field değerini diğer sınıflarda kullanabilmek için iletişime açtık diyebiliriz
             get { return _sutGucu; }
             set {
+                //kontrol etmek istediğimizde bu şekilde kullanabiliriz
+                // fakat çok önerilmez , okunmayı zorlaştırır
                 if(value > 70)
                 {
                     _sutGucu = 70;

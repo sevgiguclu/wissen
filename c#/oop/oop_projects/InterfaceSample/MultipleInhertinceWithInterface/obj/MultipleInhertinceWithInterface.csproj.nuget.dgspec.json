@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj": {}
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj": {
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj",
+        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj",
         "projectName": "MultipleInhertinceWithInterface",
-        "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj",
+        "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj",
         "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\obj\\",
+        "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\MultipleInhertinceWithInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

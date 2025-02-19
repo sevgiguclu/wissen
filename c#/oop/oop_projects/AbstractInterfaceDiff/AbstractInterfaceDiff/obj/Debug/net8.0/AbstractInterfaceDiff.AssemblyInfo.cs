@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstractInterfaceDiff")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8f0ad51e513714312d3dd089ab4055fafce0f13")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstractInterfaceDiff")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstractInterfaceDiff")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

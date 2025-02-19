@@ -13,6 +13,7 @@ namespace SealdeClassSample
         public bool Cinsiyet { get; set; }
         public int Yas { get; set; }
 
+        //virtual'ı kullanmazsam , alt sınıflar bu metodu override edemez
         public virtual string KisiBİlgileriniYaz()
         {
             string retVal = string.Empty;

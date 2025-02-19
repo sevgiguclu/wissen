@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\StaticClassSample\\StaticClassSample.csproj",
+      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\StaticClassSample\\StaticClassSample.csproj",
       "projectName": "StaticClassSample",
-      "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\StaticClassSample\\StaticClassSample.csproj",
+      "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\StaticClassSample\\StaticClassSample.csproj",
       "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\StaticClassSample\\obj\\",
+      "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\StaticClassSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

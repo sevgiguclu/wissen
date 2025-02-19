@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\AbstractInterfaceDiff\\AbstractInterfaceDiff.csproj",
+      "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\AbstractInterfaceDiff\\AbstractInterfaceDiff.csproj",
       "projectName": "AbstractInterfaceDiff",
-      "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\AbstractInterfaceDiff\\AbstractInterfaceDiff.csproj",
+      "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\AbstractInterfaceDiff\\AbstractInterfaceDiff.csproj",
       "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\AbstractInterfaceDiff\\obj\\",
+      "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\AbstractInterfaceDiff\\AbstractInterfaceDiff\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

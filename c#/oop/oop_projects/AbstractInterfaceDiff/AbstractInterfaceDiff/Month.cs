@@ -25,7 +25,7 @@ namespace AbstractInterfaceDiff
         {
             Console.WriteLine("30gün");
         }
-        public abstract void MonthNumber();
+        public abstract void MonthNumber();//bir sınıfta abstract metod varsa o sonıf da abstract olmak zorunda
 
     }
 }

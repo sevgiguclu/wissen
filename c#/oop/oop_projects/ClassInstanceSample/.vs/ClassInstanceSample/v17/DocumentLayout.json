@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AD8A27-07D0-491A-9249-5BF31F101B97}|ClassInstanceSample\\ClassInstanceSample.csproj|c:\\users\\svggl\\desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\classinstancesample\\classinstancesample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AD8A27-07D0-491A-9249-5BF31F101B97}|ClassInstanceSample\\ClassInstanceSample.csproj|solutionrelative:classinstancesample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AD8A27-07D0-491A-9249-5BF31F101B97}|ClassInstanceSample\\ClassInstanceSample.csproj|c:\\users\\svggl\\desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\classinstancesample\\classinstancesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AD8A27-07D0-491A-9249-5BF31F101B97}|ClassInstanceSample\\ClassInstanceSample.csproj|solutionrelative:classinstancesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,32 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\ClassInstanceSample\\Person.cs",
-              "RelativeDocumentMoniker": "ClassInstanceSample\\Person.cs",
-              "ToolTip": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\ClassInstanceSample\\Person.cs",
-              "RelativeToolTip": "ClassInstanceSample\\Person.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAcwCwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-08T13:41:53.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\ClassInstanceSample\\Program.cs",
-              "RelativeDocumentMoniker": "ClassInstanceSample\\Program.cs",
-              "ToolTip": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\ClassInstanceSample\\ClassInstanceSample\\Program.cs",
-              "RelativeToolTip": "ClassInstanceSample\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAABsAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T12:50:44.106Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -30,22 +30,22 @@ for (int i = 0; i <= 100; i += 15)
 //Console.WriteLine(animal.AnimalInfo);
 //Console.WriteLine("---------------- Animal Bilgiler Bitiş -------------------------");
 
-//Console.WriteLine("---------------------- Türetilmiş - Inheritance Alan Class Yapılandırılması --------------------------");
-//Cat cat = new Cat();
-//cat.FootCount = 4;
-//cat.Age = 3;
-//cat.BirthDate = new DateTime(2021, 5, 8);
-//cat.HealthCareHistory = list;
-//cat.Weight = 8;
-//cat.Eat();
-//int sonucCat = cat.Run(20, 100, out int calCat);
-//TimeSpan restTimeCat = cat.Rest(DateTime.Now, DateTime.Now.AddMinutes(30));
-//cat.CatHouse = "Büyük bir kedi evi";
-//double catHousePrice = cat.CatHousePrice(HouseType.big);
-//string info = cat.AnimalInfo;
-//info += $"\n" +
-//    $"Calori Hesabı Bilgileri : {sonucCat} - {calCat}\n" +
-//    $"Dinlenme Zamanı : {restTimeCat}\n" +
-//    $"Kedi Evi Fİyatı : {catHousePrice}";
-//Console.WriteLine(info);
+Console.WriteLine("---------------------- Türetilmiş - Inheritance Alan Class Yapılandırılması --------------------------");
+Cat cat = new Cat();
+cat.FootCount = 4;
+cat.Age = 3;
+cat.BirthDate = new DateTime(2021, 5, 8);
+cat.HealthCareHistory = list;
+cat.Weight = 8;
+cat.Eat();
+int sonucCat = cat.Run(20, 100, out int calCat);
+TimeSpan restTimeCat = cat.Rest(DateTime.Now, DateTime.Now.AddMinutes(30));
+cat.CatHouse = "Büyük bir kedi evi";
+double catHousePrice = cat.CatHousePrice(HouseType.big);
+string info = cat.AnimalInfo;
+info += $"\n" +
+    $"Calori Hesabı Bilgileri : {sonucCat} - {calCat}\n" +
+    $"Dinlenme Zamanı : {restTimeCat}\n" +
+    $"Kedi Evi Fİyatı : {catHousePrice}";
+Console.WriteLine(info);
 

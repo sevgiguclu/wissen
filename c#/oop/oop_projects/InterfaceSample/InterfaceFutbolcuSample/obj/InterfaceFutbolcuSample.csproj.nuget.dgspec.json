@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj": {}
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj": {
+    "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj",
+        "projectUniqueName": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj",
         "projectName": "InterfaceFutbolcuSample",
-        "projectPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj",
+        "projectPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj",
         "packagesPath": "C:\\Users\\svggl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\svggl\\Desktop\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\obj\\",
+        "outputPath": "C:\\Users\\svggl\\Desktop\\studyandwork\\wissen\\c#\\oop\\oop_projects\\InterfaceSample\\InterfaceFutbolcuSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\svggl\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,9 +11,9 @@ namespace KurumsalMimari
         /* normalde interfaceleri veri tipi olarak kullanmıyoruz, miras alıyoruz,
         * ama burda bu şekilde kullandığımız için interface i dışarıya karşı iletişime açmam gerekiyor
         */
-        private IDbOperations _dbOperations;
+        private IDbOperations _dbOperations;//dependency injection,property injection
 
-        public DbOperationsManager(IDbOperations dbOperations)//constructor
+        public DbOperationsManager(IDbOperations dbOperations)//dependency injection,constructor injection
         {
             _dbOperations = dbOperations;
         }

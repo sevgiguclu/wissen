@@ -8,7 +8,7 @@ namespace AbstractInterfaceDiff
 {
     public class December : IMonth
     {
-        //her ay için mont anem ve mont number değişecek değerler içeriyor , day count da bazıları 30 bazıları 31
+        //her ay için mont name ve mont number değişecek değerler içeriyor , day count da bazıları 30 bazıları 31
         public string MonthName { get ; set ; }
         public int DayCount { get ; set ; }
         public int MonthNumber { get ; set ; }
